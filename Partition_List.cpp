@@ -22,5 +22,5 @@ public:
      greater -> next = NULL;
      lesser -> next = greater_head -> next;
      return lesser_head -> next;
- }
+    }
 };
