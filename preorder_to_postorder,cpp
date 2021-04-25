@@ -1,0 +1,25 @@
+//User function template in C++
+
+
+// pre : given preorder if the tree
+// size : size of the array
+// print postorder traveresal of the tree
+
+Node *construct(int pre[],int &preIndex, int minval,int maxval,int n){
+if(preIndex>=n)
+return NULL;
+Node * root = NULL;
+int val = pre[preIndex];
+if(val > minval and val < maxval){
+root = newNode(val);
+preIndex++;
+root->left = construct(pre,preIndex,minval,val,n);
+root->right = construct(pre,preIndex,val,maxval,n);
+}
+return root;
+}
+
+Node* constructTree(int pre[], int size) {
+int preIndex = 0;
+return construct(pre,preIndex,INT_MIN,INT_MAX,size);
+}
