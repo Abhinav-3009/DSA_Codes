@@ -33,4 +33,8 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0022-generate-parentheses) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
