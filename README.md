@@ -7,6 +7,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0787-sliding-puzzle) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2089-maximum-matrix-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -58,4 +59,20 @@ Here you will find some basic implementations and codes related to data structur
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
