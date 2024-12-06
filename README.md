@@ -11,12 +11,14 @@ Here you will find some basic implementations and codes related to data structur
 | [2089-maximum-matrix-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2089-maximum-matrix-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,10 +83,12 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
 | ------- |
