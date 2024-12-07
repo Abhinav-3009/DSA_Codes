@@ -8,6 +8,7 @@ Here you will find some basic implementations and codes related to data structur
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0787-sliding-puzzle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2089-maximum-matrix-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2089-maximum-matrix-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -83,6 +84,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
