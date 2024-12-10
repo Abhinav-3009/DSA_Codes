@@ -1,31 +1,37 @@
 class Solution {
 public:
-    int maximumLength(string s) {
-        int n = s.size();
-        int l = 1, r = n;
+    int f(string& s, int n)
+    {
+        unordered_map<string, int> map;
+        for(int i=0;i<=s.length()-n;i++)
+        {
+            int cnt=1;
+            int j=i;
+            while(s[j]==s[j+1] && j<s.length()) 
+            {
+                cnt++;j++;
+            }
 
-        if (!helper(s, n, l)) return -1;
 
-        while (l + 1 < r) {
-            int mid = (l + r) / 2;
-            if (helper(s, n, mid)) l = mid;
-            else r = mid;
+            if(cnt>=n){
+                string x="";
+                for(int j=0;j<n;j++) x=x+s[i];
+                map[x]++;
+                if(map[x]==3) return n;
+            }
         }
 
-        return l;
+        return -1;
     }
 
-private:
-    bool helper(const string& s, int n, int x) {
-        vector<int> cnt(26, 0);
-        int p = 0;
-
-        for (int i = 0; i < n; i++) {
-            while (s[p] != s[i]) p++;
-            if (i - p + 1 >= x) cnt[s[i] - 'a']++;
-            if (cnt[s[i] - 'a'] > 2) return true;
+    int maximumLength(string s) {
+        int ans=-1;
+        for(int i=1; i<s.length(); i++) 
+        {
+            int x=f(s,i);
+            if(x!=-1) ans=x;
         }
 
-        return false;
+        return ans;
     }
 };
