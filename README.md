@@ -21,6 +21,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2232-adding-spaces-to-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +151,8 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2868-continuous-subarrays) |
+## Math
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
