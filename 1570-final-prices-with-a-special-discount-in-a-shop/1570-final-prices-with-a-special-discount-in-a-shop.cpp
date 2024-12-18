@@ -1,22 +1,17 @@
 class Solution {
 public:
-
-    int nextSmallerElement(vector<int>& prices, int index, int n){
-        for(int i = index+1; i < n; i++){
-            if(prices[index] >= prices[i]){
-                return prices[i];
-            }
-        }
-        return 0;
-    }
-
-    vector<int> finalPrices(vector<int>& prices) {
+vector<int> finalPrices(vector<int>& prices) {
         int n = prices.size();
+        stack<int> s;
+        for(int i = n-1; i >= 0; i--){
+            while(!s.empty() && s.top() > prices[i]){
+                s.pop();
+            }
+            int nge = s.empty() ? 0 : s.top();
+            s.push(prices[i]);
+            prices[i] -= nge;
 
-        for(int i = 0; i < n; i++){
-            prices[i] -= nextSmallerElement(prices, i, n);
         }
-
         return prices;
     }
 };
