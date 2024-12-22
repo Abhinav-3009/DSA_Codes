@@ -179,10 +179,12 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
