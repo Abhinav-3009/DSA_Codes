@@ -45,6 +45,7 @@ Here you will find some basic implementations and codes related to data structur
 | [0787-sliding-puzzle](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
@@ -184,6 +185,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -194,6 +196,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
 |  |
 | ------- |
