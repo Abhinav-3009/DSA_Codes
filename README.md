@@ -9,6 +9,7 @@ Here you will find some basic implementations and codes related to data structur
 | [0494-target-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0787-sliding-puzzle) |
+| [1063-best-sightseeing-pair](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -66,6 +67,7 @@ Here you will find some basic implementations and codes related to data structur
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
