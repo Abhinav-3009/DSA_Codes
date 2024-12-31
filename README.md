@@ -10,6 +10,7 @@ Here you will find some basic implementations and codes related to data structur
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0787-sliding-puzzle) |
+| [1025-minimum-cost-for-tickets](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -71,6 +72,7 @@ Here you will find some basic implementations and codes related to data structur
 | [0022-generate-parentheses](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2164-two-best-non-overlapping-events) |
