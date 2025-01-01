@@ -59,6 +59,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinav-3009/DSA_Codes/tree/master/0022-generate-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
@@ -157,6 +158,7 @@ Here you will find some basic implementations and codes related to data structur
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
