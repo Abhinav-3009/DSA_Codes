@@ -19,6 +19,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2089-maximum-matrix-sum](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -161,6 +162,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3427-special-array-ii) |
 ## Sliding Window
