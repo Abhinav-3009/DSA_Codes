@@ -64,6 +64,7 @@ Here you will find some basic implementations and codes related to data structur
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -115,6 +116,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -162,6 +164,7 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3427-special-array-ii) |
@@ -233,4 +236,8 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
