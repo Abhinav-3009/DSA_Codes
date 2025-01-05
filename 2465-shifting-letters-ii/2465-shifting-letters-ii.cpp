@@ -1,27 +1,20 @@
 class Solution {
 public:
-    string shiftingLetters(string s, vector<vector<int>>& shifts) {
-        int n = s.size();
-        vector<int> shift(n + 1, 0);
-
-        // Process the shifts
-        for (auto& shiftOp : shifts) {
-            int start = shiftOp[0], end = shiftOp[1], direction = shiftOp[2];
-            shift[start] += (direction == 1 ? 1 : -1);
-            shift[end + 1] -= (direction == 1 ? 1 : -1);
+    string shiftingLetters(string& s, vector<vector<int>>& shifts) {
+        const int n=s.size(), sz=shifts.size();
+        vector<int> apply(n+1, 0);
+        for(int i=0; i<sz; i++){
+            auto& sh=shifts[i];
+            int s=sh[0], e=sh[1]+1, d=sh[2]==1?1:-1;
+            apply[s]+=d;
+            apply[e]-=d;    
         }
-
-        int currentShift = 0;
-        for (int i = 0; i < n; ++i) {
-            currentShift += shift[i];
-            shift[i] = currentShift;
+        partial_sum(apply.begin(), apply.end(), apply.begin());
+        for(int i=0; i<n; i++){
+            char& c=s[i];
+            c=(apply[i]+c-'a')%26+'a';
+            if (c<'a') c+=26; 
         }
-
-        for (int i = 0; i < n; ++i) {
-            int netShift = (shift[i] % 26 + 26) % 26;
-            s[i] = 'a' + (s[i] - 'a' + netShift) % 26;
-        }
-
-        return s;
+        return s;  
     }
 };
