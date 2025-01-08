@@ -31,6 +31,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2868-continuous-subarrays](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -75,6 +76,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Here you will find some basic implementations and codes related to data structur
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhinav-3009/DSA_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -246,4 +249,16 @@ Here you will find some basic implementations and codes related to data structur
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
