@@ -81,6 +81,7 @@ Here you will find some basic implementations and codes related to data structur
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Here you will find some basic implementations and codes related to data structur
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Here you will find some basic implementations and codes related to data structur
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhinav-3009/DSA_Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Abhinav-3009/DSA_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
 |  |
 | ------- |
